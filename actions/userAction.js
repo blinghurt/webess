@@ -3,3 +3,7 @@ const getUser = () =>{
         user: "User"
     }
 }
+
+export {
+    getUser
+}
