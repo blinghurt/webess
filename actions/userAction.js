@@ -1,4 +1,5 @@
-const getUser = () =>{
+const getUser = () =>
+{
     return {
         user: "User"
     }
