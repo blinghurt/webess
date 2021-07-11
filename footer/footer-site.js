@@ -1,3 +1,3 @@
 const Footer = () =>{
-  console.log()
+  console.log("")
 }
